@@ -3,3 +3,4 @@ out
 website/
 docs-minimind/
 .claude/
+trainer/__pycache__/
