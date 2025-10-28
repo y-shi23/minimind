@@ -13,7 +13,7 @@ main:
 $:
   vscode:
     - docker:
-        image: docker.cnb.cool/1oved/dev-env-next:latest
+        image: docker.cnb.cool/1oved/dev-env-python:latest
       services:
         - vscode
         - docker
